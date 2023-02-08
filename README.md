@@ -5,6 +5,14 @@
 - Programming: java, HTML,CSS JS,My SQL
 - Spoken Languages: English, Korean, Mandarin 
 
+:technologist: Goals:
+- 🌱 I’m currently learning web development and react
+- Later this year planning to study app development and cyber security
+
+
+📫 How to reach me: By DM or email
+
+
 <!--
 **joshboyye/joshboyye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
