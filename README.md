@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi I'm Josh :octocat::rocket:
+---
+
+:computer: Skills:
+- Programming: java, HTML,CSS JS,My SQL
+- Spoken Languages: English, Korean, Mandarin 
 
 <!--
 **joshboyye/joshboyye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
