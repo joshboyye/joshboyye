@@ -1,9 +1,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joshboyye&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=joshboyye&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 💻 Skills:<br><br>Programming: java, HTML,CSS JS,My SQL<br>Spoken Languages: English, Korean, Mandarin<br>🧑‍💻 Goals:<br><br>🌱 I’m currently using next.js and swift to build a website and app<br>Currently serving as the CTO at Immpression, LLC, a cutting-edge social media startup in NYC<br>📫 How to reach me: By DM or email
 
