@@ -1,4 +1,3 @@
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joshboyye&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
