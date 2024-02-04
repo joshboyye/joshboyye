@@ -1,4 +1,4 @@
-![](https://github-trophies.vercel.app/?username=joshboyye&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=joshboyye&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![](https://github-readme-stats.vercel.app/api?username=joshboyye&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 # 💫 About Me:
