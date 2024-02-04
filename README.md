@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=joshboyye&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
 # 💫 About Me:
-💻 Skills:<br><br>Programming: java, HTML,CSS JS,My SQL<br>Spoken Languages: English, Korean, Mandarin<br>🧑‍💻 Goals:<br><br>🌱 I’m currently using next.js and swift to build a website and app<br>Currently serving as the CTO at Immpression, LLC, a cutting-edge social media startup in NYC<br>📫 How to reach me: By DM or email
+💻 Skills:<br>Programming: C++,Java,Python,React,Next.JS,SwiftUiHTML,CSS JS,My SQL<br>Spoken Languages: English, Korean, Mandarin<br>🧑‍💻 Goals:<br><br>🌱 I’m currently using next.js and swift to build a website and app<br>Currently serving as the CTO at Immpression, LLC, a cutting-edge social media startup in NYC<br>📫 How to reach me: By DM or email
 
 
 ## 🌐 Socials:
